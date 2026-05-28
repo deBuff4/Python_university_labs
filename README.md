@@ -1,4 +1,4 @@
-# 🐍 Python Learning Journey
+# 🐍 Python Learning
 
  Лабораторные работы и учебные задачи за 2 семестра  
  
